@@ -1,0 +1,71 @@
+/*CSS DOCUMENT */
+h1, h2, h3, h4, p, ul, ol, li {margin: 0; padding:0; font-size: 1em; font-weight: normal;}
+
+body {
+	background-color: #fafafa;
+	color: #333333;
+	font-family: Proxima Nova, sans-serif;
+}
+
+div.container {
+	max-width: 40em;
+	margin: auto;
+}
+
+img {
+	max-width: 20em;
+	margin: .5em 0em;
+}
+
+figure {
+	margin: 1em 0;
+}
+
+h1, h2, h3, h4, p, ul, ol, li {
+	margin: 0em; 
+	padding:0em; 
+	font-size: 1em; 
+	font-weight: lighter;
+}
+
+h1 {
+	font-size: 3em; 
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom:.5em;
+	color: rgb(55, 55, 93);
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 2.5em; 
+	font-weight: bold;
+	margin-bottom: .25em;
+	margin-top:.75em;
+	padding: .25em 0em;
+	color: rgb(80, 80, 133);
+	border-top: 2px solid rgb(36, 36, 63);
+	
+}
+
+h3 {
+	font-size: 1.75em; 
+	font-weight: bold;
+	margin-bottom: .25em;
+	margin-top:.75em;
+}
+p{
+	line-height: 1.2em;
+}
+ul{
+	margin: .5em .5em;
+	
+}
+li{
+	margin: .5em .5em;
+}
+figcaption{
+	margin: .25em 0em 2.5em;
+	font-size: .75em;
+}
+
